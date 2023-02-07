@@ -1,3 +1,9 @@
+## Hosted Link
+Link 1   https://netflix-clone-38b87.web.app/
+
+
+Link 2   https://netflix-clone-38b87.firebaseapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
